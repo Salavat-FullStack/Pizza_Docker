@@ -19,7 +19,12 @@ return [
     'allowed_methods' => ['*'],
 
     // Разрешённые источники
-    'allowed_origins' => ['http://127.0.0.1:8001'],
+    'allowed_origins' => [
+        'http://localhost:1000/',
+        'http://localhost:1500/',
+        'http://localhost:6500/',
+        'http://localhost:6000/',
+    ],
 
     // Разрешённые заголовки
     'allowed_headers' => ['*'],

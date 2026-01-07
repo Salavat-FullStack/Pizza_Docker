@@ -13,7 +13,7 @@
         'resources/css/product_block_card.css',
         'resources/js/filter.block.js',
         'resources/js/sorting.js',
-        'resources/js/product_block_card.js'
+        'resources/js/product_block_card.js',
     ])
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

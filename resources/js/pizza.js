@@ -152,6 +152,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
     }
 
-    // это текст для теста git!
-
 });

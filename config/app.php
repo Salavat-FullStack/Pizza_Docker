@@ -15,6 +15,8 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+    'auth_app_url' => env('AUTH_APP_URL', 'http://localhost:1000'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment

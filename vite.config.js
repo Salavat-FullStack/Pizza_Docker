@@ -20,6 +20,7 @@ export default defineConfig({
                 'resources/js/product_block_card.js',
                 'resources/js/auth/register.js',
                 'resources/js/auth/login.js',
+                'resources/js/auth/login.js',
             ],
             refresh: true,
         }),

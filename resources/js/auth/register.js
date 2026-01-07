@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
             formData[input.id] = input.value;
             console.log(formData[input.id]);
         });
-        fetch('http://127.0.0.1:8000/register', {
+        fetch('http://localhost:1000/api/register', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
